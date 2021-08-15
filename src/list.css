@@ -1,0 +1,25 @@
+.pet img {
+    width: 300px;
+    height:400px;
+    /* border-radius: 50%; */
+    filter: grayscale();
+}
+
+.pet:hover img {
+    filter:none;
+}
+.text  {
+    /* margin:auto; */
+    text-align: center;
+    margin: 30px;
+}
+
+.drop {
+    background-color:#343a40 !important;
+    color: black !important;
+    border: none !important;
+}
+
+.back:hover{
+ color:black !important;
+}

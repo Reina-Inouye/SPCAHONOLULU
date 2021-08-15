@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.footer {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color:#343a40 ;
+    color: white impot !important;
+    border: none ;
+}
+.container {
+  margin-bottom: 80px;
+  margin-top: 50px;
+}
