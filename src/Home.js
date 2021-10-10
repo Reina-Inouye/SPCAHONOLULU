@@ -11,7 +11,7 @@ class home extends Component {
               <Container>
                 <Row>
                     <Col>
-                        <h1 className="text">Welcome to the SPCA</h1>
+                        <h1 className="text">Welcome to the Honolulu SPCA</h1>
                     </Col>
                 </Row>
                 <Row>
